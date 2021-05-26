@@ -1,5 +1,8 @@
 <template>
-  <div>Hello... {{ value }}</div>
+  <div>{{ value1 }}</div>
+  <div>{{ value2 }}</div>
+  <div>{{ value3 }}</div>
+  <div>{{ value4 }}</div>
 </template>
 
 <script>
@@ -7,7 +10,10 @@ export default {
   name: "App",
   data() {
     return {
-      value: "Everything's mental. You create your reality with your thoughts. , To be a CHAMPION you have to believe in youself when nobody else will.., If you are afraid of failing, you won't get very far!, To Do Very Hard Things Or For Something That Seems Like Sort Of An Impossible Goal Is To Just Steadily Broaden Your Comfort Zone Over Time To Basically Consistently Do Things That Are Slightly Harder For You, In The Right Direction Not Necessarily Specifically Towards That Goal But Sort Of Keep Broadening Yourself Until Eventually It Seems Possible."
+      value1: "Everything's mental. You create your reality with your thoughts."
+      value2: "To be a CHAMPION you have to believe in youself when nobody else will.."
+      value3: "If you are afraid of failing, you won't get very far!"
+      value4: "To Do Very Hard Things Or For Something That Seems Like Sort Of An Impossible Goal Is To Just Steadily Broaden Your Comfort Zone Over Time To Basically Consistently Do Things That Are Slightly Harder For You, In The Right Direction Not Necessarily Specifically Towards That Goal But Sort Of Keep Broadening Yourself Until Eventually It Seems Possible."
     };
   }
 };
