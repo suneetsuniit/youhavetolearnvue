@@ -16,10 +16,3 @@ export default {
 };
 </script>
 
-<style  lang="scss">
-div{
-  font-size:50pt;
-  color:red;
-}
-
-</style>
