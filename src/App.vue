@@ -11,7 +11,7 @@ export default {
       value1: "Everything's mental. You create your reality with your thoughts.", 
       
       };
-  };
+  }
 };
 </script>
 
