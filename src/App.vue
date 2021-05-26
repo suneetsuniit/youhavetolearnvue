@@ -22,12 +22,10 @@ export default {
 };
 </script>
 
-<style  lang="scss" scoped>
-
+<style  lang="scss" >
   h1 {
       padding-left: 0;
   }
-
 </style>
 
 
