@@ -1,8 +1,6 @@
 <template>
   <div>{{ value1 }}</div>
-  <div>{{ value2 }}</div>
-  <div>{{ value3 }}</div>
-  <div>{{ value4 }}</div>
+
 </template>
 
 <script>
