@@ -1,5 +1,6 @@
 <template>
   <h1>{{ value1 }}</h1>
+  <h1>{{ value2 }}</h1>
 
 </template>
 
@@ -9,6 +10,7 @@ export default {
   data() {
     return {
       value1: "Everything's mental. You create your reality with your thoughts.", 
+      value2: "Everything's mental. You create your reality with your thoughts.", 
       
       };
   }
