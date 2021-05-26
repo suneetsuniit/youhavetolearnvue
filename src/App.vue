@@ -19,7 +19,7 @@ export default {
 };
 </script>
 
-<style>
+<style  lang="scss">
 div{
   font-size:50pt;
   color:red;
