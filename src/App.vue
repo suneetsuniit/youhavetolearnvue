@@ -1,10 +1,10 @@
 <template>
 	<div>
-      <div>{{ value1 }}</div>
-      <div>{{ value2 }}</div>
-      <div>{{ value3 }}</div>
-      <div>{{ value4 }}</div>
-  </div>
+  <b-row>{{ value1 }}</b-row>
+  <b-row>{{ value2 }}</b-row>
+  <b-row>{{ value3 }}</b-row>
+  <b-row>{{ value4 }}</b-row>
+</div>
 </template>
 
 <script>
@@ -30,4 +30,3 @@ div{
 }
 
 </style>
-
