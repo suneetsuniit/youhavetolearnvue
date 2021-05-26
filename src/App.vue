@@ -25,7 +25,7 @@ export default {
 <style  lang="scss" scoped>
 
   h1 {
-    color:red;
+    color:rgb(255, 0, 0);
   }
 
 </style>
