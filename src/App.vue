@@ -25,7 +25,8 @@ export default {
 <style  lang="scss" scoped>
 
   h1 {
-    color:rgb(255, 0, 0);
+    background-color:rgb(255, 0, 0);
+      padding-left: 0;
   }
 
 </style>
