@@ -1,9 +1,9 @@
 <template>
 	<div>
-  <b-row>{{ value1 }}</b-row>
-  <b-row>{{ value2 }}</b-row>
-  <b-row>{{ value3 }}</b-row>
-  <b-row>{{ value4 }}</b-row>
+  <h1>{{ value1 }}</h1>
+  <h1>{{ value2 }}</h1>
+  <h1>{{ value3 }}</h1>
+  <h1>{{ value4 }}</h1>
 </div>
 </template>
 
@@ -24,7 +24,7 @@ export default {
 
 
 <style  lang="scss">
-div{
+h1 {
   font-size:50pt;
   color:red;
 }
