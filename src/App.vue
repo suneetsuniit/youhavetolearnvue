@@ -1,6 +1,5 @@
 <template>
   <h1>{{ value1 }}</h1>
-  <h1>{{ value2 }}</h1>
 
 </template>
 
