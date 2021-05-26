@@ -18,3 +18,11 @@ export default {
   }
 };
 </script>
+
+<style>
+div{
+  font-size:50pt;
+  color:red;
+}
+
+</style>
