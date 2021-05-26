@@ -19,10 +19,4 @@ export default {
 
 
 
-<style  lang="scss">
-h1 {
-  font-size:50pt;
-  color:red;
-}
 
-</style>
