@@ -1,9 +1,7 @@
 <template>
 	<div>
   <h1>{{ value1 }}</h1>
-  <h1>{{ value2 }}</h1>
-  <h1>{{ value3 }}</h1>
-  <h1>{{ value4 }}</h1>
+
 </div>
 </template>
 
